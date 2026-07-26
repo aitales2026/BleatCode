@@ -1,0 +1,7 @@
+model_select: "mimo"
+
+models:
+  mimo:
+    api_key: "Your API Key"
+    base_url: "https://token-plan-cn.xiaomimimo.com/v1"
+    model_id: "mimo-v2.5"
